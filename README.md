@@ -1,2 +1,2 @@
 # EDA_Projects
-EDA using python and some important question
+EDA using python and some important questions
